@@ -1,3 +1,3 @@
 hello!
 ho aggiunto codice
-nuova finzione
+nuova funzione
